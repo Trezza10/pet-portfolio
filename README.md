@@ -1,3 +1,3 @@
 # Pet Portfolio
 
-A portfolio for lauras minimalistic pet portraits.   
+A portfolio for Laura's minimalistic pet portraits.   
